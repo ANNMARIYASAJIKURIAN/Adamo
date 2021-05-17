@@ -1,2 +1,2 @@
 # Adamo
- talent
+ 
